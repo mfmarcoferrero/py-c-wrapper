@@ -1,8 +1,6 @@
 # Convert a sting to hex with Python and C
 
-This is a very simple project to understand how to setup a Python wrapper on compiled C functions. Something similar is done in some of the most popular Python libs like numpy and pytorch.
-
-C functions allow to unlock upper performance, and can be wrapped on Python methods to be easily used in Python based projects.
+This is a very simple project to understand how to setup a Python wrapper on compiled C functions. Something similar is done in some of the most popular Python libs like numpy and pytorch. C functions allow to unlock upper performance, and can be wrapped on Python methods to be easily used in Python based projects.
 
 ## Getting Started
 
